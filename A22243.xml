@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God king of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to all and singuler  archbishops, bishops, archdeacons, deanes and their officials ... greeting  : whereas by our letters patents bearing date the seauen and twentieth day of March in the sixteenth yeare of our raigne ... wee did giue and and grant vnto our poore distressed subiect Abraham Lambart of Woodside ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22243</idno>
+            <idno type="STC">STC 8651</idno>
+            <idno type="STC">ESTC S3808</idno>
+            <idno type="EEBO-CITATION">33151016</idno>
+            <idno type="OCLC">ocm 33151016</idno>
+            <idno type="VID">28867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22243)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28867)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:126)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God king of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to all and singuler  archbishops, bishops, archdeacons, deanes and their officials ... greeting  : whereas by our letters patents bearing date the seauen and twentieth day of March in the sixteenth yeare of our raigne ... wee did giue and and grant vnto our poore distressed subiect Abraham Lambart of Woodside ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Roger Wood, and Thomas Symcocke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1620 [i.e. 1621]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For 1-year collections on behalf of A. Lambart for losses by fire, citing earlier brief of 27 Mar. 1618.</note>
+                  <note>"Witnes our selfe at Westminster, the nineteenth day of Ianuary, in the Eighteenth yeare of our Raigne of England, Fraunce and Ireland: And of Scotland the Foure and Fiftieth. 1620."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lambart, Abraham, fl. 1618-1620.</term>
+               <term>Church of England --  Charitable contributions.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28867:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <head>
+               <figure>
+                  <p>I R</p>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES By the grace of God, King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c.</signed>
+               <salute>To all and ſinguler Archbiſhops, Biſhops, Arch-deacons, Deanes, and their Officials, Parſons, Vicars, Curats, and to all ſpirituall perſons. And alſo to all Iuſtices of Peace, Maiors, She<g ref="char:EOLhyphen"/>riffes, Bayliffes, Conſtables, Churchwardens and Headboroughes: And to all Officers of Citties, Bo<g ref="char:EOLhyphen"/>roughes, and Townes corporate: And to all other our Officers, Miniſters and Subiects whatſoeuer they be, aſwell within Liberties, as without, to whom theſe preſents ſhall come, greeting:</salute>
+            </opener>
+            <p>WHEREAS by our Letters Patents bearing date the ſeauen and Twentieth day of March, in the Sixteenth yeare of our Raigne of <hi>England,</hi> &amp;c. vpon a Certificate vnder the handes of our truſty and welbelo<g ref="char:EOLhyphen"/>ued Subiects Sir <hi>Edmond Bowyer,</hi> Sir <hi>Nicholas Carew,</hi> Sir <hi>Thomas Grimes,</hi> Sir <hi>Thomas Muſchampe,</hi> Sir <hi>Francis Clarke,</hi> Sir <hi>George Paule,</hi> and Sir <hi>Iohn Howland</hi> Knights, Iuſtices of the Peace within our County of <hi>Surrey,</hi> wee did giue and grant vnto our poore diſtreſſed Subiect <hi>Abraham Lambart of Woodſide</hi> us the Pariſh of <hi>Croydon</hi> in our foreſaid County, full power, licence and Authority, to aske, gather, receiue and take the Almes &amp; charitable beneuolence of all our louing Sobiects within our County of <hi>Surrey</hi> and certaine other Counties, for and in reſpect of his great loſſes ſu<g ref="char:EOLhyphen"/>ſtained by Fire amounting to the value of Three hundred pounds, to the vtter vndoing of our ſaid poore Subiect, his Wife and ſixe ſmall Children, which Letters Patents are now determined and out of Date. Now foraſmuch as it hath ſince appeared vnto vs by the humble ſupplication and petition of our ſaid poore Subiect <hi>Abraham Lambart</hi> being alſo confirmed by <hi>Affidauit,</hi> that our ſaid poore Subiect by rea<g ref="char:EOLhyphen"/>ſon of the hurt and lameneſſe which happened vnto him by the ſaid Fire, whereby be could not trauell himſelfe about his Collection, as al<g ref="char:EOLhyphen"/>ſo by the negligence &amp; deceipt of ſuch as he put in truſt he receiued little benefit by the ſaid collection (as wée graciouſly intended he ſhould) whereby he is fallen into greater miſery then before, being impotent and not able to labour for his liuing, nor to ſuſtaine his charge of Wife and Children, and alſo much indebted and behind hand, and in dayly danger of impriſonment, in conſideration whereof he hath moſt humbly beſought vs that wee would be further pleaſed to renew our ſaid Letters Patents for ſome other places, for him to ſéeke ſome re<g ref="char:EOLhyphen"/>liefe to preſerue him and his from periſhing, whoſe miſerable &amp; poore eſtate we much pitty<g ref="char:punc">▪</g> &amp; haue thought good to commend the ſame vnto the charitable conſideration of all our louing and weldiſpoſed Subiects within certaine Counties hereafter mentioned, not doubting but that all good Chriſtians well weighing the vncertainty of mans eſtate through theſe ineuitable accidents, will be ready and willing as feeling members one of anothers miſery, to extend their charitable contributions towards the reliefe and Comfort of their diſtreſſed bro<g ref="char:EOLhyphen"/>ther in this his great neceſſity, none knowing how ſoone nor whoſe chance may next happen into the like Calamity.</p>
+            <p>KNOW yee therefore, that of Our eſpeciall Grace and Princely compaſſion, Wee haue giuen &amp; granted, and by theſe our Letters Patents doe giue and grant, vnto our ſaid poore Subiect <hi>Abraham Lambart,</hi> and to his Deputy &amp; Deputies, the bearers or bearers hereof, full power, licence, and Authority, to aske, gather, receiue and take the Almes and charitable beneuolence of all our louing Subiects whatſoeuer, Inhabiting within our Counties of <hi>Oxford, Buckingham, Hartford, Eſſex, Cambridge, Lincolne, Northampton,</hi> and <hi>War<g ref="char:EOLhyphen"/>wicke,</hi> with our Citty and Vniuerſity of <hi>Oxford,</hi> and in our Citties of <hi>Lincolne, Peterborough</hi> and <hi>Couentrey,</hi> with our Vniuerſity of <hi>Cambridge,</hi> and Iſle of <hi>Ely,</hi> And in all other Citties, Townes Corporate, Priuiledged places, Pariſhes, Villages, and in all other places whatſoeuer within our ſaid Counties and not elſe where, for and towards the ſpéedy reliefe and maintenance of our ſaid po0re Subiect his Wife and Children.</p>
+            <p>WHEREFORE Wée will and Command you and euery of you, that at ſuch time and times as the ſaid <hi>Abraham Lambart,</hi> or his Deputy or Deputies, the bearer or bearers hereof, ſhall come and repaire to any your Churches, Chappels, or other places, to aske and receiue the gratuities &amp; charitable benenolence of our ſaid Subiects, quietly to permit &amp; ſuffer them ſo to doe, without any manner your lets or contradictions. And you the ſaid Parſons, Vicars, &amp; Curats, for the better ſtirring vp of a charitable deuotion, deliberately to pub<g ref="char:EOLhyphen"/>liſh and declare the Tenor of theſe our Letters Patents vnto our ſaid Subiects vpon ſome Sabaoth day, when as the ſame ſhall be ten<g ref="char:EOLhyphen"/>dered vnto you. Exhorting and perſwading them to extend their liberall contributions in ſo good and charitable a déede. And you the Churchwardens of euery Pariſh, where ſuch Collection is to be made (as aforeſaid) to Collect &amp; gather the Almes and charitable bene<g ref="char:EOLhyphen"/>uolence of all our louing Subiects, aſwell Strangers as others, And what ſhal be by you ſo gathered, to deliuer it to the bearer or bearers of theſe our Letters Patents, and to no other perſon, when as thereunto you ſhall be required. And laſtly, whereas we are informed of the great abuſe which is now crept in amongſt theſe poore people, who ſell their Lycences vnto ſome other perſon, whereby mens charity goeth not the right way but vnto ſuch as deſerue it leaſt. That from henceforth our will and pleaſure is, that if it may appeare vnto <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or any of you that the ſaid <hi>Abraham Lambart</hi> hath contracted any bargain, or made or ſhall make ſale of theſe our Letters Patents, where<g ref="char:EOLhyphen"/>by the benefit ſhould paſſe from him to any other perſon, That thereupon theſe our Letters Patents ſhall be voide and of none effect. Any Statute, Law, Ordinance, or Prouiſion heretofore made to the contrary in any wiſe notwithſtanding.</p>
+            <p>IN witneſſe whereof, Wée haue cauſed theſe our Letters to be made Patents for the ſpace of One whole yere next after the date hereof to endure.</p>
+            <closer>
+               <dateline>Witnes our ſelfe at <hi>Weſtminſter,</hi> 
+                  <date>the ninetéenth day of Ianuary, in the Eightéenth yeare of our Raigne of <hi>England, France,</hi> and <hi>Ireland:</hi> And of <hi>Scotland</hi> they <unclear>foure</unclear> and Fiftieth. 1620.</date>
+               </dateline>
+               <signed>❀ Steward.</signed>
+❀ God ſaue the King<g ref="char:punc">▪</g>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed By Roger Wood, and Thomas Symcocke.</p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>Cum Priuilegio.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
